@@ -1,8 +1,10 @@
 ABOUT ME 
 
-name: Elizabeth kabaso 
+name: Elizabeth kabaso
+ 
 program: Bachelor of Science in information systems 
-years:  Second year 
+
+year:  Second year 
 
 SKILLS IN TECHNOLOGY 
 
