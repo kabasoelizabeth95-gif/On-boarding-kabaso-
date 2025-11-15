@@ -4,6 +4,7 @@ name: Elizabeth kabaso
  
 program: Bachelor of Science in information systems 
 
+SCHOOL: SICT
 year:  Second year 
 
 SKILLS IN TECHNOLOGY 
